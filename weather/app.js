@@ -36,4 +36,6 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+//TEST
+
 module.exports = app;
